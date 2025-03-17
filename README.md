@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Kamalesh Patil 👋
 
-<!--
-**kamaleshpatil26/KamaleshPatil26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Flutter & Android Developer | Mobile App Enthusiast**  
+🔹 Passionate about **building scalable and user-friendly mobile applications**  
+🔹 Exploring **AI, Gamification, and AR in Education** (Skillurg Ninjas)  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages :** Dart, Java, 
+- **database :**  SQL  SQLite, SharedPreferences, Firebase,
+- **Frameworks & Tools:** Flutter, Android SDK, Retrofit
+- **Version Control:** Git & GitHub  
+- **Other Skills:** UI/UX (Material Design), API Development, Agile Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...Skillurg Ninjas it's kids learning platform 
+- 🌱 I’m currently learning ... Flutter and Swift
 -->
