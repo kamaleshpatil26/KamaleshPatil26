@@ -7,6 +7,8 @@
 🔹 Focused on building scalable, interactive, and user-friendly apps using Flutter & Android.
 🔹 Exploring AI,Swift.
 
+🌱 I’m currently learning ... Flutter and Swift
+
 ### 🛠 Tech Stack
 🔹 Languages:** Dart, Java,
 
@@ -35,5 +37,5 @@
 🔸 An online shopping application with seamless product browsing and secure checkout.
 ✔ Features: Product listing, Cart management, Payment integration, User authentication
 
-- 🌱 I’m currently learning ... Flutter and Swift
+
 -->
