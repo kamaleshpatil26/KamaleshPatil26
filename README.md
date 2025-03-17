@@ -8,29 +8,21 @@
 🔹 Exploring AI,Swift.
 
 ### 🛠 Tech Stack
-🔹 Languages:*
-   * Dart, Java,
+🔹 Languages:** Dart, Java,
 
-🔹 Database & Storage:*
-   * SQL, SQLite, SharedPreferences, Firebase
+🔹 Database & Storage:* SQL, SQLite, SharedPreferences, Firebase
 
-🔹 Frameworks & Tools: *
-   * Flutter, Android SDK,
+🔹 Frameworks & Tools:* Flutter, Android SDK,
 
-🔹 State Management:
-   * Provider, BLoC (Business Logic Component)
+🔹 State Management:* Provider, BLoC (Business Logic Component)
      
-🔹 Architecture & Development Patterns:*
-   *  MVVM (Model-View-ViewModel)    
+🔹 Architecture & Development Patterns:*  MVVM (Model-View-ViewModel)    
 
-🔹 Backend API & Integration:*
-   * Dio , Http , Retrofit, RESTful APIs, JSON Parsing, Secure Authentication
+🔹 Backend API & Integration:* Dio , Http , Retrofit, RESTful APIs, JSON Parsing, Secure Authentication
 
-🔹 UI/UX & Design: *
-   * XML (Material Design), Responsive UI, User-Centric Design
+🔹 UI/UX & Design:* XML (Material Design), Responsive UI, User-Centric Design
 
-🔹 Version Control: *
-   * Git & GitHub
+🔹 Version Control:* Git & GitHub
 
 
 🚀 Projects -: I’m currently working on
